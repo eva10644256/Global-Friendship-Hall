@@ -785,7 +785,7 @@ form {
   letter-spacing: 3px;
 }
 
-/*我有問題*/
+/*影片*/
 .video-header {
   color: #842B00;
   font-weight: bold;
@@ -796,7 +796,7 @@ form {
 }
 
 .video-text {
-  width: 300px;
+  width: 350px;
   height: 300px;
   position: relative;
   top: 10px;
@@ -804,15 +804,15 @@ form {
   border: 3px #844200 solid;
   border-radius: 14px;
   float: left;
-  margin-left: 20px;
+  margin-left: 5px;
   margin-right: 20px;
 }
 
 .video-text p {
   text-align: left;
   font-size: 18px;
-  letter-spacing: 4px;
-  padding-left: 30px;
-  padding-right: 30px;
-  text-indent: 45px;
+  letter-spacing: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  
 }
